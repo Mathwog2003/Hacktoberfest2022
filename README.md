@@ -9,7 +9,7 @@ Getting Started :
     Fork this repo (button on top)
     Clone on your local machine
 
-git clone https://github.com/mathwog/Hacktoberfest2022.git
+git clone https://github.com/mathwog2003/Hacktoberfest2022.git
 
     Navigate to project directory.
 
@@ -36,7 +36,7 @@ Avoid Conflicts {Syncing your fork}
 
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
-git remote add upstream https://github.com/mathwog/Hacktoberfest2022
+git remote add upstream https://github.com/mathwog2003/Hacktoberfest2022
 
 You can verify that the new remote has been added by typing
 
