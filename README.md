@@ -15,7 +15,7 @@ git clone https://github.com/mathwog2003/Hacktoberfest2022.git
 
 cd Hacktoberfest2022
 
-    Create a new Branch or not necessary
+    Create a new Branch , not necessary
 
 git checkout -b my-new-branch
 
